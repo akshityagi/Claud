@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <defs>
+    <linearGradient id="logomark-a" x1="1.463%" x2="98.223%" y1="1.463%" y2="98.223%">
+      <stop offset="0%" stop-color="#FF5980"/>
+      <stop offset="100%" stop-color="#FFA882"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#0C66FF" d="M0,8 L14.6694924,8 C26.259236,8 30.4619571,9.20673294 34.6989941,11.4727251 C38.9360312,13.7387174 42.2612826,17.0639688 44.5272749,21.3010059 C46.7932671,25.5380429 48,29.740764 48,41.3305076 L48,56 L0,56 L0,8 Z"/>
+    <polygon fill="#FFA800" points="0 8 48 56 0 56"/>
+    <circle cx="47" cy="9" r="5" fill="url(#logomark-a)"/>
+  </g>
+</svg>
